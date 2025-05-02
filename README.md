@@ -1,14 +1,16 @@
 
-<h1 align="center">Hi there, I'm Ernar 👋</h1>
+<h1 align="center">Hi there, I'm Yenar👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E0ZWhkYnp2aDhiMjFjd2V1bTkxMGh1bTlibmljZTZucjNkdDZzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="250" alt="typing cat]/>
 </p>
+    
+<p align="center"><br /></p>
 
-<h3 align="center">Passionate about building something useful with JS, React, Node.js & PostgreSQL</h3>
+<h3 align="center">Passionate about building something useful with JS,TS,React</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Frontend-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
