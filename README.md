@@ -7,7 +7,7 @@
     
 <p align="center"><br /></p>
 
-<h3 align="center">Passionate about building something useful with JS,TS,React</h3>
+<h3 align="center">Passionate about building something useful! </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow"/>
