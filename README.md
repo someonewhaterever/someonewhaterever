@@ -27,7 +27,7 @@
 - 🧑‍💻 Fullstack Volunteer @ EdTech startup (2025 – now)  
 - 💼 Interned @ Tengizchevroil & ISKER Consortium  
 - 💡 Passionate about clean UI, scalable architecture, and meaningful tools  
-- 📚 Currently learning: advanced TypeScript and backend logic
+- 📚 Currently learning: advanced TypeScript and tools for React, TG Bots, ML and AI
 
 ---
 
