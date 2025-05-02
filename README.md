@@ -10,10 +10,12 @@
 <h3 align="center">Passionate about building something useful with JS,TS,React</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Frontend-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue"/>
+<p align="center"><br /></p>
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=green"/>
+<p align="center"><br /></p>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=336791"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green"/>
   <img src="https://img.shields.io/badge/Version Control-Git-orange?style=for-the-badge&logo=git&logoColor=orange"/>
