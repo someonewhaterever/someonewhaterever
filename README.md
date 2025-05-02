@@ -41,7 +41,7 @@ Tools:     Git, GitHub, VSCode, Figma
 ```
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=someonewhaterever&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=someonewhatereve&theme=tokyonight" width="47%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonewhaterever&layout=compact&theme=tokyonight" width="47%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=someonewhaterever&show_icons=true&theme=tokyonight" width="47%" /></p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someonewhaterever&layout=compact&theme=tokyonight" width="47%" /> </p>
 
 ### 📫 Connect with Me
 <p align="center"> <a href="mailto:yernar.jaqsylyq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://t.me/someonewhatever"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue"/></a> <a href="https://linkedin.com/in/yernar-jaqsylyq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
