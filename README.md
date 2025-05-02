@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Ernar 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="typing cat/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E0ZWhkYnp2aDhiMjFjd2V1bTkxMGh1bTlibmljZTZucjNkdDZzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="250" alt="typing cat]/>
 </p>
 
 <h3 align="center">Passionate about building something useful with JS, React, Node.js & PostgreSQL</h3>
